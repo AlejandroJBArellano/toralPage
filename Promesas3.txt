@@ -1,0 +1,136 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> &#169  
+   <meta charset="utf-8">
+   <title>Promesas</title> 
+   <link rel="icon" type]="image/png" href="logoscouts.png"> 
+   <style> 
+      body{
+         background: url(imagenes/grisfondo.jpg); 
+         font-family: Times New Roman 
+         }
+         .container{ 
+            width: 900px; 
+            background: #C8A2C8; 
+            margin: auto; 
+            border-radius:25px 
+         } 
+         .top{ 
+            margin-top: 30px 
+         } 
+         .row{ 
+            text-align: center; 
+         } 
+         .menu{ 
+            float: right; 
+         } 
+         .menu li{ 
+            display: inline-block; 
+         } 
+         .menu a{ 
+            color: black; 
+            text-decoration: none;    
+            padding: 20px; 
+         } 
+         .menu a: hover{ 
+            background: #B52015
+         } 
+         .footer{ 
+            overflow: hidden; 
+         } 
+         .footer a{ 
+            color: black; 
+            text-decoration: none;
+         } 
+         .oraciones{ 
+            text-align: justify; 
+         } 
+         .col h2{ 
+            color: #FFFFFF 
+         } 
+         .title{ 
+            color:#FFFFFF 
+         } 
+         .subtitle{ 
+            color: #572364 
+         } 
+         .list{ 
+            text-decoration: underline;
+            text-decoration-color: white  
+         } 
+      </style> 
+   </head> 
+   <body> 
+      <div class="container">
+      <div class="header"> 
+         <img src="images/ima4.png" height="80" width="118" alt=""> 
+         <ul class="menu top"> 
+            <li><a href="https://misparabolas.blogspot.com/2012/04/oracion-promesa-y-ley-scout.html">Oración, Promesa y Ley Scout</a></li> 
+            <li><a href="https://issuu.com/wayomosqueda/docs/oraciones_y_promesas_electronica">Libro Oraciones Scouts</a></li> 
+         </ul> 
+      </div> 
+      <div class="title">
+      <div class="col">
+         <h1 align="center">Promesas</h1> 
+      </div class="row"> 
+   </div class="title"> 
+   <p>
+      <div class="subtitle">
+         <ul align="center">
+            <i>Promesa y ley</i>
+         </ul> 
+      </div class="subtitle"> 
+      <div> 
+         <li align="justify">
+            <b>Promesa scout para gacelas</b>
+         </li> "Yo prometo cumplir con amor mis deberes para con Dios y la patria, obedecer la ley de la Manada y hacer una buena acción diariamente" <li>
+            <b>Promesa scout</b>
+         </li> "Yo prometo por mi honor, hacer cuanto de mi dependa para cumplir mis deberes para con Dios y la Patria, ayudar al projimo en toda circunstancia y cumplir fielmente la Ley Scout" </p>
+         </div> 
+         <div class="col"> 
+            <h2 align="center">Ley Scout</h2> 
+            <p> 
+               <div class="list"> 
+                  <ol> 
+                     <li>El scout cifra su honor en ser digno de confianza</li> 
+                     <li>El scout es leal con su patria, sus padres, sus jefes y subordinados</li> 
+                     <li>El scout es útil y ayuda a los demas sin pensar en recompensa</li> 
+                     <li>El scout es amigo de todos y hermano de todo scout, sin distinción de credo, raza, nacionalidad o clase social</li> 
+                     <li>El scout es cortés y actúa con nobleza</li> 
+                     <li>El scout ve en la naturaleza la obra de Dios, protege a los animales y plantas</li> 
+                     <li>El scout obedece con responsabilidad y hace las cosas en orden y completas</li> 
+                     <li>El scout ríe y canta en sus dificultades</li> 
+                     <li>El scout es económico, trabajador y cuidadoso del bien ajeno</li> 
+                     <li>El scout es limpio, sano y puro de pensamientos, palabras y acciones</li> 
+                  </ol> 
+               </p> 
+            </div class="list"> 
+         </div class="col"> 
+         <div class="title"> 
+            <h3 align="center">Oraciones</h3> 
+         </div class="title"> <p> <div class="Oraciones"> 
+            <ul>
+               <b>Oración de Lobato</b>
+            </ul> 
+            <li>Señor enseñame a ser humilde y bondadoso, a imitar tu ejemplo, a amarte con todo mi corazón, y a seguir el camino que me ha de llevar junto a ti.</li> 
+            <ul>
+               <b>Oración Scout</b>
+            </ul> 
+            <li>Señor, enseñame a ser generoso, a servirte como lo mereces, a dar sin medida, a combatir sin miedo a que me hieran, a trabajar sin desacnso, y al no buscar mas recompensa que saber que hago tu voluntad, así sea.</li> 
+            <ul>
+               <b>Oración de comunidad</b>
+            </ul> 
+            <li>Señor, ayudame a encontrar la fortaleza del viejo roble, para que ningun triunfo me envanezca, la alegria de la naturaleza, para que ninguna soledad me abata; la libertad del ave, para elegir mi camino, y la voluntad del caminante, para seguir siempre adelante y servir, asi sea.</li> 
+            <ul>
+               <b>Oración del Rover</b>
+            </ul> 
+            <li>Dame señor un corazón vigilante, que ningun pensamiento vano me aleje de ti, un corazón noble, que ningun afecto indigno rebaje, un corazón recto, que ninguna maldad desvie, un corazón fuerte, que ninguna pasión esclavice, un corazón generoso, para servir, asi sea.</li> 
+            <ul>
+               <b>Oración de los alimentos</b>
+            </ul> 
+            <li>Señor, tu que das el agua a los campos, tu que das la tierra a las plantas, tu que das fruto a los hombres, danos bendito este alimento para que vuelto fortaleza te podamos servir mejor.</li> 
+         </p> 
+      </div class="Oraciones"> 
+   </div> 
+</body> 
+</html>
