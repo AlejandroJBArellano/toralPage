@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tammudu+2&display=swap');
+body{
+    font-family: 'Baloo Tammudu 2', cursive;
+    margin: 20px;
+    line-height: 30px;
+    .container{
+        header{
+            nav{
+                display: flex;
+                justify-content: space-between;
+                ul{
+                    list-style: none;
+                    display: flex;
+                    align-items: center;
+                    li{
+                        padding: 0 10px;
+                        display: inline-block;
+                        a,a:visited{
+                            font-size: 25px;
+                            text-decoration: none;
+                            color: black;
+                        }
+                    }
+                }
+            }
+        }
+        main{
+            h1{
+                text-align: center;
+                color: #B52015;
+            }
+            section{
+                article{
+                    margin: 15px;
+                    padding: 0 10px;
+                    display: grid;
+                    grid-template-columns: 1fr 1fr;
+                    &:nth-child(2n-1){
+                        text-align: right;
+                    }
+                    &:nth-child(2n){
+                        background-color: #B52015;
+                    }
+                    & > *{
+                        padding: 20px;
+                    }
+                    img, video, iframe{
+                        margin: auto;
+                        width: 100%;
+                    }
+                    div{
+                        display: grid;
+                        place-items: center;
+                        margin: 20px 0;
+                    }
+                }
+            }
+        }
+        footer{
+            overflow: hidden;
+            text-align: center;
+            ul{
+                padding: 20px 0;
+                li{
+                    display: inline-block;
+                    transition: all .5s ease-in-out;
+                    &:hover{
+                        transform: scale(1.5);
+                    }
+                    a, a:visited{
+                        font-size: 30px;
+                        color: black;
+                        margin: 0 10px;
+                        text-decoration: none;
+                    }
+                }
+            }
+        }
+    }
+}
